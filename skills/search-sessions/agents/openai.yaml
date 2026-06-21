@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search Sessions"
+  short_description: "Find resumable local agent sessions"
+  default_prompt: "Use $search-sessions to find the local agent session about my recent refactor and show the resume command."
